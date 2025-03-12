@@ -39,6 +39,5 @@ function main() {
 // Ejecutar la función principal
 main();
 
-?>
 
 ?>
