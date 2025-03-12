@@ -28,4 +28,6 @@ class Usuario {
     public function getNombre(): string {
         return $this->nombre;
     }
+
+    
 }
